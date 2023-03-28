@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "642346518850a5faf2fb09a7"
+  },
+  "Cientifico": {
+    "$oid": "6423181a8850a5faf2fb09a3"
+  },
+  "Proyecto": {
+    "$oid": "642318958850a5faf2fb09a6"
+  }
+},{
+  "_id": {
+    "$oid": "6423465c8850a5faf2fb09a8"
+  },
+  "Cientifico": {
+    "$oid": "6423180c8850a5faf2fb09a2"
+  },
+  "Proyecto": {
+    "$oid": "6423187a8850a5faf2fb09a5"
+  }
+},{
+  "_id": {
+    "$oid": "6423466a8850a5faf2fb09a9"
+  },
+  "Cientifico": {
+    "$oid": "642317ff8850a5faf2fb09a1"
+  },
+  "Proyecto": {
+    "$oid": "6423186e8850a5faf2fb09a4"
+  }
+}]

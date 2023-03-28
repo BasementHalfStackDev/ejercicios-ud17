@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6423186e8850a5faf2fb09a4"
+  },
+  "Nombre": "Pildoras Magicas",
+  "Horas": 100
+},{
+  "_id": {
+    "$oid": "6423187a8850a5faf2fb09a5"
+  },
+  "Nombre": "Capturador CO2",
+  "Horas": 300
+},{
+  "_id": {
+    "$oid": "642318958850a5faf2fb09a6"
+  },
+  "Nombre": "Paneles Solares de Grafeno",
+  "Horas": 50
+}]

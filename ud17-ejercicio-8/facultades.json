@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64230eee8850a5faf2fb099b"
+  },
+  "Nombre": "Universitat Rovira i Virgili"
+},{
+  "_id": {
+    "$oid": "64230f078850a5faf2fb099c"
+  },
+  "Nombre": "Universitat Autònoma de Barcelona"
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64230f8e8850a5faf2fb099d"
+  },
+  "DNI": "77791527F",
+  "Nombre y Apellidos": "Josep Maria Pallas Batalla",
+  "Facultad": {
+    "$oid": "64230eee8850a5faf2fb099b"
+  }
+},{
+  "_id": {
+    "$oid": "64230fa18850a5faf2fb099e"
+  },
+  "DNI": "12345678A",
+  "Nombre y Apellidos": "Marta Cyrn",
+  "Facultad": {
+    "$oid": "64230f078850a5faf2fb099c"
+  }
+}]

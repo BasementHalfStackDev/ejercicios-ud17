@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "642347538850a5faf2fb09b0"
+  },
+  "Investigador": {
+    "$oid": "64230fa18850a5faf2fb099e"
+  },
+  "Equipo": {
+    "$oid": "642311168850a5faf2fb09a0"
+  },
+  "Fecha inicio": {
+    "$date": "2023-04-02T00:00:00.000Z"
+  },
+  "Fecha fin": {
+    "$date": "2023-04-15T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6423476a8850a5faf2fb09b1"
+  },
+  "Investigador": {
+    "$oid": "64230f8e8850a5faf2fb099d"
+  },
+  "Equipo": {
+    "$oid": "642311168850a5faf2fb09a0"
+  },
+  "Fecha inicio": {
+    "$date": "2023-04-20T00:00:00.000Z"
+  },
+  "Fecha fin": {
+    "$date": "2023-04-22T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "642347a98850a5faf2fb09b2"
+  },
+  "Investigador": {
+    "$oid": "64230f8e8850a5faf2fb099d"
+  },
+  "Equipo": {
+    "$oid": "6423110e8850a5faf2fb099f"
+  },
+  "Fecha inicio": {
+    "$date": "2023-04-20T00:00:00.000Z"
+  },
+  "Fecha fin": {
+    "$date": "2023-04-22T00:00:00.000Z"
+  }
+}]
