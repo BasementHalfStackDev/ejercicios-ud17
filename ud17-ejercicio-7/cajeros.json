@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64230d0d8850a5faf2fb0991"
+  },
+  "Nombre y Apellidos": "Josep Maria Pallas Batalla"
+},{
+  "_id": {
+    "$oid": "64230d168850a5faf2fb0992"
+  },
+  "Nombre y Apellidos": "Marta Cyrn"
+}]

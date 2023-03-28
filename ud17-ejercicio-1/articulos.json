@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6422acb3482ef56e130867b3"
+  },
+  "Nombre": "Placa base",
+  "Precio": "98.99",
+  "Fabricante": {
+	"$oid": "6422ab33482ef56e130867b2"
+  }
+},{
+  "_id": {
+    "$oid": "6422acd6482ef56e130867b4"
+  },
+  "Nombre": "GPU",
+  "Precio": "999.99",
+  "Fabricante": {
+	"$oid": "6422ab2d482ef56e130867b1"
+  }
+},{
+  "_id": {
+    "$oid": "6422acf4482ef56e130867b5"
+  },
+  "Nombre": "Monitor",
+  "Precio": "329.00",
+  "Fabricante": {
+	"$oid": "6422ab20482ef56e130867b0"
+  }
+}]

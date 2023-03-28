@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422b24f482ef56e130867b6"
+  },
+  "Nombre": "Finanzas",
+  "Presupuesto": "60000"
+},{
+  "_id": {
+    "$oid": "6422b24f482ef56e130867b7"
+  },
+  "Nombre": "Dirección",
+  "Presupuesto": "200000"
+}]

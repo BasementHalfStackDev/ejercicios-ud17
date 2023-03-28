@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64230d448850a5faf2fb0993"
+  },
+  "Nombre": "Ropa",
+  "Precio": 21.8
+},{
+  "_id": {
+    "$oid": "64230d718850a5faf2fb0994"
+  },
+  "Nombre": "Detergente",
+  "Precio": 5.99
+},{
+  "_id": {
+    "$oid": "64230d938850a5faf2fb0995"
+  },
+  "Nombre": "Kit de Bricolaje",
+  "Precio": 60
+}]

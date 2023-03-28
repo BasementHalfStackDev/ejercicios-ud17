@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6422c7c1482ef56e130867bd"
+  },
+  "Contenido": "Papel",
+  "Valor": 39.99,
+  "Almacen": {
+    "$oid": "6422c744482ef56e130867bc"
+  }
+},{
+  "_id": {
+    "$oid": "6422c7ea482ef56e130867be"
+  },
+  "Contenido": "GPUs",
+  "Valor": 4500.99,
+  "Almacen": {
+    "$oid": "6422c744482ef56e130867bc"
+  }
+},{
+  "_id": {
+    "$oid": "6422c810482ef56e130867bf"
+  },
+  "Contenido": "Juguetes",
+  "Valor": 500,
+  "Almacen": {
+    "$oid": "6422c735482ef56e130867bb"
+  }
+},{
+  "_id": {
+    "$oid": "6422c823482ef56e130867c0"
+  },
+  "Contenido": "Juguetes",
+  "Valor": 250,
+  "Almacen": {
+    "$oid": "6422c735482ef56e130867bb"
+  }
+},{
+  "_id": {
+    "$oid": "6422c84e482ef56e130867c1"
+  },
+  "Contenido": "Videojuegos",
+  "Valor": 100,
+  "Almacen": {
+    "$oid": "6422c729482ef56e130867ba"
+  }
+},{
+  "_id": {
+    "$oid": "6422c866482ef56e130867c2"
+  },
+  "Contenido": "Peliculas",
+  "Valor": 50,
+  "Almacen": {
+    "$oid": "6422c729482ef56e130867ba"
+  }
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6422ab20482ef56e130867b0"
+  },
+  "Nombre": "MSI"
+},{
+  "_id": {
+    "$oid": "6422ab2d482ef56e130867b1"
+  },
+  "Nombre": "ASUS"
+},{
+  "_id": {
+    "$oid": "6422ab33482ef56e130867b2"
+  },
+  "Nombre": "Gigabyte"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "642307c58850a5faf2fb097e"
+  },
+  "Nombre": "Shrek",
+  "Calificacion_Edad": "PG"
+},{
+  "_id": {
+    "$oid": "642307f08850a5faf2fb097f"
+  },
+  "Nombre": "Doctor Strange",
+  "Calificacion_Edad": "PG-13"
+}]
